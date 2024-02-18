@@ -1,10 +1,10 @@
 === Zarinpal Payment Gateway for Learnpress ===
-Contributors: erfandarvishnia
-Author URI: https://github.com/erfanad1992/
+Contributors: AmirHossein Taghizadeh
+Author URI: https://github.com/Amyrosein/
 Tags: learnpress,zarinpal,gateway,payment,زرین پال,lms,لرن پرس
-Requires at least: 4.5
-Tested up to: 5.7
-Requires PHP: 7.0
+Requires at least: 5.7
+Tested up to: 6.4
+Requires PHP: +7.0
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
